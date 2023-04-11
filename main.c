@@ -1,5 +1,8 @@
 int main(){
 
     printf("File main creato con successo!");
-    return 0
+
+    printf("ciao questa è UNA MOD");
+  
 }
+  return 0
