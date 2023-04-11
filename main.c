@@ -1,8 +1,15 @@
 int main(){
 
-    printf("File main creato con successo!");
+int sum(int a, int b){
 
-    printf("ciao questa è UNA MOD");
-  
+    int somma = 0;
+
+    somma = sum(a,b);
+
+    return somma;
 }
-  return 0
+
+
+}
+
+return 0
