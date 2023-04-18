@@ -1,5 +1,4 @@
 
 Turing Award 2018: Yoshua Bengio
 
-
-è un trimone 
+mio fratello ha vinto 
